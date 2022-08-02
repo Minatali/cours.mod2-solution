@@ -1,3 +1,4 @@
 # cours.mod2-solution
 Module 2 Coding Assignment
-https://github.com/{Minatali}/{cours.mod2-solution}/blob/master/{index.html}
+OUTPUT
+https://minatali.github.io/cours.mod2-solution/
